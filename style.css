@@ -96,4 +96,30 @@ nav ul{
         background-color: rgba(78, 71, 255, 0.1);
         border-radius: 20px;
     }
+    .uses{
+        margin-top: 100px;
+    }
+    .uses-1{
+        text-align: center;
+        font-weight: 700;
+    }
+    .use-var-1, .use-var-2, .use-var-3{
+        border: 1px solid;
+        width: 300px;
+        height: 200px;
+    }
+    .uses-2{
+         display: flex;
+        justify-content: center;
+        gap: 60px;
+    }
+    .focus{
+        margin-top: 100px;
+        text-align: center;
+    }
+    .focus-2{
+        margin-top: 10px;
+        
+    }
+
     
