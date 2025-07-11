@@ -77,4 +77,23 @@ nav ul{
         
 
     }
+    .text-2{
+        text-align: center;
+    }
+    .lower-1, .lower-2, .lower-3{
+        /* border: 1px solid; */
+        width: 100px;
+        text-align: center;
+      
 
+    }
+    .lower-case{
+        display: flex;
+        justify-content: center;
+        gap: 60px;
+    }
+    .productive-1{
+        background-color: rgba(78, 71, 255, 0.1);
+        border-radius: 20px;
+    }
+    
