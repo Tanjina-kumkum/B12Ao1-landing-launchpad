@@ -21,7 +21,7 @@ nav ul{
     display: flex;
     margin: 50px 40px;
      justify-content: space-between;
-     border: 1px solid;
+     /* border: 1px solid; */
      padding: 40px;
     
 }
@@ -53,6 +53,7 @@ nav ul{
         background-color: rgb(78, 71, 255);
     }
     .section-1{
+        margin-top: 100px;
         display: flex;
         justify-content: space-between;
         padding: 100px 200px;
@@ -93,6 +94,7 @@ nav ul{
         gap: 60px;
     }
     .productive-1{
+        margin-top: 100px;
         background-color: rgba(78, 71, 255, 0.1);
         border-radius: 20px;
     }
@@ -121,5 +123,47 @@ nav ul{
         margin-top: 10px;
         
     }
+    .lets-go-1{
+        font-weight: 700;
+        font-size: 25px;
+        width: 250px;
+        margin-top: 80px;
+        /* border: 1px solid; */
+    }
+    .lets-go{
+        display: flex;
+        justify-content: space-between;
+        padding: 100px 150px;
+        gap: 80px;
+    }
+    .inp{
+        width: 400px;
+        height: 90px;
+    }
+    .low ul{
+        color: rgb(34, 34, 192);
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        
+    }
+    .low ul li{
+        list-style: none;
+    }
+    .low ul li a{
+        text-decoration: none;
+    }
+    .foot{
+        text-align: center;
+    }
+    .foot-1{
+        color: rgb(78, 71, 255);
+        font-weight: 600;
+    }
+    .foot-2{
+        color: rgb(137, 135, 161);
+    }
+   
+    
 
     
